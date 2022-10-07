@@ -9,7 +9,7 @@ export const Filter = ({ value, onChange }) => (
       value={value}
       onChange={onChange}
       name="filter"
-      placeholder="Search"
+      placeholder="Enter name"
     />
   </FormGroup>
 );
